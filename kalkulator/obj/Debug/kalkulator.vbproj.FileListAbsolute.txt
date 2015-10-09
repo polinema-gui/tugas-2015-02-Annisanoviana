@@ -1,0 +1,10 @@
+D:\KULIAH\SEMESTER 3\PEMROGAMAN GUI\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+D:\KULIAH\SEMESTER 3\PEMROGAMAN GUI\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+D:\KULIAH\SEMESTER 3\PEMROGAMAN GUI\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+D:\KULIAH\SEMESTER 3\PEMROGAMAN GUI\kalkulator\kalkulator\bin\Debug\kalkulator.xml
+D:\KULIAH\SEMESTER 3\PEMROGAMAN GUI\kalkulator\kalkulator\obj\Debug\kalkulator.Form1.resources
+D:\KULIAH\SEMESTER 3\PEMROGAMAN GUI\kalkulator\kalkulator\obj\Debug\kalkulator.Resources.resources
+D:\KULIAH\SEMESTER 3\PEMROGAMAN GUI\kalkulator\kalkulator\obj\Debug\kalkulator.vbproj.GenerateResource.Cache
+D:\KULIAH\SEMESTER 3\PEMROGAMAN GUI\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+D:\KULIAH\SEMESTER 3\PEMROGAMAN GUI\kalkulator\kalkulator\obj\Debug\kalkulator.xml
+D:\KULIAH\SEMESTER 3\PEMROGAMAN GUI\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
